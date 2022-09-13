@@ -13,7 +13,7 @@
 int main(void)
 {
     char c;
-    init i;
+    int i;
     long li;
     long long lli;
     float f;
