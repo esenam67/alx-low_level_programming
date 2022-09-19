@@ -1,4 +1,4 @@
-#include <stdio>
+#include <stdio.h>
 /**
  * main - print alphabet lower and upper case
  *
@@ -13,7 +13,6 @@ for (alph = 'a' ; alph <= 'z' ; alph++);
 {
 putchar(alph);
 }
-putchar('\n');
 for (alphab = 'A' ; alphab <= 'Z' ; alphab++);
 {
 putchar(alphab);
