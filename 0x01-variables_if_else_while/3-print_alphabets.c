@@ -8,10 +8,10 @@
  */
 int main(void)
 {
-char alph, alphab;
-for (alph = 'a' ; alph <= 'z' ; alph++);
+char alphab;
+for (alphab = 'a' ; alphab <= 'z' ; alphab++);
 {
-putchar(alph);
+putchar(alphab);
 }
 for (alphab = 'A' ; alphab <= 'Z' ; alphab++);
 {
