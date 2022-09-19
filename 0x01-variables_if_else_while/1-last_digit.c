@@ -6,7 +6,7 @@
  *
  * Description: using the main function
  * the program will prints if " the program is positive, negative or zero"
- * return: 0
+ * Return: 0
  */
 int main(void)
 {
