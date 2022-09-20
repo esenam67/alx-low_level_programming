@@ -6,7 +6,7 @@
  * this program will print combinations of single digit
  * Return
  */
-int main(void);
+int main(void)
 {
 int comb;
 for (comb = 0; comb <= 9; comb++)
