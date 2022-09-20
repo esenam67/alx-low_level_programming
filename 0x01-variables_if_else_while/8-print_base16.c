@@ -8,10 +8,14 @@
  */
 int main(void)
 {
-int hexa;
-for (hexa = 0 ; hexa < 16 ; hexa++)
+int hex;
+for (hex = 0 ; hex < 10 ; hex++)
 {
-putchar (hexa);
+putchar (hex);
+}
+for (hex = 'a' ; hex <= 'f' ; hex++)
+{
+putchar (hex);
 }
 putchar ('\n');
 return (0);
