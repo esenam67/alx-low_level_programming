@@ -1,4 +1,4 @@
-#include <main.h>
+#include "main.h"
 /**
  * main - alphabet
  *
@@ -6,7 +6,7 @@
  * the programprins alphabets
  * Return: 0
  */
-int main(void)
+void print_alphabet(void)
 {
 char k;
 for (k = 'a'; k <= 'z'; k++)
