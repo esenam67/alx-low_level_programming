@@ -4,7 +4,7 @@
  *
  * Description: prints alphabet
  * the programprins alphabets
- * Return: 0
+ *wo
  */
 void print_alphabet(void)
 {
