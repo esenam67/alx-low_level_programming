@@ -4,7 +4,7 @@
  *
  * Description: prints alphabet
  * the programprins alphabets
- *wo
+ * print_alphabet -> prints the lozercase alphabets
  */
 void print_alphabet(void)
 {
