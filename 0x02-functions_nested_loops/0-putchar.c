@@ -3,8 +3,8 @@
  * main - functions
  *
  * Descrition: print putchar
- * 
- * Return 0
+ *this program
+ * Return: 0
  */
 int main(void)
 {
