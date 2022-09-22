@@ -1,16 +1,18 @@
 #include "main.h"
 /**
+ * main - check code
  *
  * Description: using main funcion
  */
+
 void jack_bauer(void)
 {
 int h, j;
 for (h = 0; h < 24; h++)
 {
 for (j = 0; j < 60; j++)
-{ 
-if ( h < 10)
+{
+if (h < 10)
 {
 _putchar('0');
 _putchar(h + '0');
