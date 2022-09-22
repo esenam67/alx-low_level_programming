@@ -4,7 +4,7 @@
  * @c: input
  * Return: 1 if c is a digit, 0 otherwise
  */
-iny _isdigit(int c)
+int _isdigit(int c)
 {
 if ((c >= 48) && (c <= 57))
 return (1);
